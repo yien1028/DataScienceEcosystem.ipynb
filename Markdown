@@ -1,12 +1,1 @@
 # DataScienceEcosystem.ipynb
-In this notebook, Data Science Tools and Ecosystem are summarized.
-Some of the popular languages that Data Scientists use are:
-1.python
-2.SQL
-3.R language
-Some of the commonly used libraries used by Data Scientists include:
-1.TensorFlow.
-2.SciPy.
-3.NumPy.
-4.Pandas.
-5.Pytorch
