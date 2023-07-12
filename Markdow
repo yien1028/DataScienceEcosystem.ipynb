@@ -12,4 +12,7 @@ Some of the commonly used libraries used by Data Scientists include:
 5.Pytorch
 Data Science Tools |Data Science Tools| |-| |Jupyter Notebook| |RStudio| |Apache Spark|
 Below are a few examples of evaluating arithmetic expressions in Python。
-
+# This a simple arithmetic expression to mutiply then add integers
+eval = (3*4)+5
+print(eval)
+print(eval==17)
